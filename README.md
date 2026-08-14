@@ -30,6 +30,8 @@ After downloading, organize the sequences according to your VTM encoding pipelin
   year    = {2025},
   publisher = {IEEE}
 }
+
+
 @article{chen2026mspcnn,
   author  = {Chen, Jing and Zeng, Jiaxin and Zeng, Huanqiang and Zhang, Xudong and Lin, Qi},
   title   = {Multi-Stage Prediction CNN: Fast CU Partition for VVC Screen Content Coding},
