@@ -16,8 +16,7 @@ We provide the screen content video sequences and JVET CTC 444 test set used for
 |---------|-------------|------|-----------------|
 | **SCVEandCTC444** | Screen Content Video sequences + JVET CTC 444 test set (used for CU partition label mining & evaluation) | [Baidu Pan](https://pan.baidu.com/s/1FsvtasOoAEkTXZwpzHFvRw?pwd=a6tw) | `a6tw` |
 | **VVC-SCC CU split Set** | Additional screen content sequences for training & BD-BR / ΔT testing | [Baidu Pan](https://pan.baidu.com/s/1SjE3yn_WtBRCTkFzhvfRjA?pwd=3zir) | `3zir` |
-| **VVC-SCC intra mode  Set** | Additional screen content sequences for training & BD-BR / ΔT testing | [Baidu Pan](link: https://pan.baidu.com/s/1Db42L2WFqTgoaQOl3jK2eQ?pwd=gj2t 
-) | `gj2t` |
+| **VVC-SCC intra mode  Set** | Additional screen content sequences for training & BD-BR / ΔT testing | [Baidu Pan](link:https://pan.baidu.com/s/1Db42L2WFqTgoaQOl3jK2eQ?pwd=gj2t ) | `gj2t` |
 After downloading, organize the sequences according to your VTM encoding pipeline and update the sequence list file before running CU trace extraction.
 
 ## Citation
